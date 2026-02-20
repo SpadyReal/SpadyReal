@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Spady_#9201 on Discord
+- 📫 How to reach me SpadyReal on Discord
 
 <!---
 SpadyReal/SpadyReal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
